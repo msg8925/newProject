@@ -7,6 +7,8 @@
   <body>
     <?php
       echo "This is a test.";
+      echo "<br>";
+      echo "To see the outcome.";
     ?>
   </body>
 </html>
